@@ -1,4 +1,4 @@
 # pika-demo
 This is my first Git Repository.
-<br>-
+<br>
 Author-Priyanshi Kumari
